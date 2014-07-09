@@ -6,6 +6,8 @@ ember-starter-kit implements the Tom Dale Ember.js Tutorial with the Ember 1.5.1
  - Ember 1.5.1 Starter-Kit - http://emberjs.com/
  - Ember.js Tutorial - https://github.com/justin808/ember-js-guides-railsonmaui-no-rest
 
+See ember-starter-app for a Rails 4 implementation.
+
 starter-kit
 ===========
 
