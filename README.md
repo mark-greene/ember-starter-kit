@@ -1,3 +1,11 @@
+README
+======
+
+ember-starter-kit implements the Tom Dale Ember.js Tutorial with the Ember 1.5.1 starter kit.
+
+ - Ember 1.5.1 Starter-Kit - http://emberjs.com/
+ - Ember.js Tutorial - https://github.com/justin808/ember-js-guides-railsonmaui-no-rest
+
 starter-kit
 ===========
 
